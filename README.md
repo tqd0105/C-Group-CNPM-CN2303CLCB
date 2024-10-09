@@ -11,4 +11,4 @@
 | Nguyễn Văn Hân       | Thành viên    |
 ###### Thời gian thực hiện: `07:00 05/10/2024`
 ###### Thời gian đến hạn: `07:00 01/11/2024`
-![image](https://github.com/user-attachments/assets/b14b8bba-cd51-473f-a5a5-1423bd326265)
+![image](![image](https://github.com/user-attachments/assets/5d5f42ce-63ad-48c0-ab0c-33cee6ad7139))
