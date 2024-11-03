@@ -1581,3 +1581,15 @@ D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiMan
 D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
 D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
 D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.AssemblyReference.cache
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.sourcelink.json
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
