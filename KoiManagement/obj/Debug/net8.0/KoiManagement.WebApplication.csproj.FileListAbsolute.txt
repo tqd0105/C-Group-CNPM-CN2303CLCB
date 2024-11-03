@@ -1,0 +1,1583 @@
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\appsettings.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.staticwebassets.runtime.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.exe
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.deps.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.runtimeconfig.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.KoiManagement.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiManagement.WebApplication.props
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiManagement.WebApplication.props
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiManagement.WebApplication.props
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\scopedcss\bundle\KoiManagement.WebApplication.styles.css
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\scopedcss\projectbundle\KoiManagement.WebApplication.bundle.scp.css
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
+C:\AB_SCHOOL\Second-Year\CNPM\CGroup-Project6\KoiManagement.WebApplication\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.exe
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.sourcelink.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.KoiManagement.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiManagement.WebApplication.props
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiManagement.WebApplication.props
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiManagement.WebApplication.props
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\bundle\KoiManagement.WebApplication.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\projectbundle\KoiManagement.WebApplication.bundle.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManag.5320072A.Up2Date
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\appsettings.Development.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\appsettings.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.staticwebassets.runtime.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.exe
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.deps.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.runtimeconfig.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.pdb
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Azure.Core.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Azure.Identity.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Humanizer.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Build.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Common.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.CodeDom.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Memory.Data.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.AssemblyReference.cache
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.sourcelink.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.build.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.development.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.KoiManagement.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiManagement.WebApplication.props
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiManagement.WebApplication.props
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiManagement.WebApplication.props
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.pack.json
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\bundle\KoiManagement.WebApplication.styles.css
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\projectbundle\KoiManagement.WebApplication.bundle.scp.css
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManag.5320072A.Up2Date
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
+E:\tai\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.staticwebassets.runtime.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.exe
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.deps.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.runtimeconfig.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.sourcelink.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.KoiManagement.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiManagement.WebApplication.props
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiManagement.WebApplication.props
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiManagement.WebApplication.props
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\bundle\KoiManagement.WebApplication.styles.css
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\scopedcss\projectbundle\KoiManagement.WebApplication.bundle.scp.css
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManag.5320072A.Up2Date
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\C-Group-CNPM-CN2303CLCB\C-Group-CNPM-CN2303CLCB\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.AssemblyReference.cache
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.sourcelink.json
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+D:\etoEt\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
+D:\etoEt\KoiManagement\bin\Debug\net8.0\appsettings.Development.json
+D:\etoEt\KoiManagement\bin\Debug\net8.0\appsettings.json
+D:\etoEt\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.staticwebassets.runtime.json
+D:\etoEt\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.exe
+D:\etoEt\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.deps.json
+D:\etoEt\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.runtimeconfig.json
+D:\etoEt\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.pdb
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Azure.Core.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Azure.Identity.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Humanizer.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Build.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.Common.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.CodeDom.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Memory.Data.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\etoEt\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\etoEt\KoiManagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\etoEt\KoiManagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\etoEt\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.KoiManagement.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\etoEt\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiManagement.WebApplication.props
+D:\etoEt\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiManagement.WebApplication.props
+D:\etoEt\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiManagement.WebApplication.props
+D:\etoEt\KoiManagement\obj\Debug\net8.0\staticwebassets.pack.json
+D:\etoEt\KoiManagement\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\etoEt\KoiManagement\obj\Debug\net8.0\scopedcss\bundle\KoiManagement.WebApplication.styles.css
+D:\etoEt\KoiManagement\obj\Debug\net8.0\scopedcss\projectbundle\KoiManagement.WebApplication.bundle.scp.css
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManag.5320072A.Up2Date
+D:\etoEt\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
+D:\etoEt\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\appsettings.json
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.staticwebassets.runtime.json
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.exe
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.deps.json
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.runtimeconfig.json
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Humanizer.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Build.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.Common.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\testOnDiMa\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.AssemblyReference.cache
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.sourcelink.json
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.KoiManagement.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiManagement.WebApplication.props
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiManagement.WebApplication.props
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiManagement.WebApplication.props
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\scopedcss\bundle\KoiManagement.WebApplication.styles.css
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\scopedcss\projectbundle\KoiManagement.WebApplication.bundle.scp.css
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManag.5320072A.Up2Date
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
+C:\testOnDiMa\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\appsettings.Development.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\appsettings.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.staticwebassets.runtime.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.exe
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.deps.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.runtimeconfig.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\KoiManagement.WebApplication.pdb
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Azure.Core.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Azure.Identity.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Humanizer.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Build.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.Common.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.CodeDom.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Memory.Data.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.AssemblyReference.cache
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfoInputs.cache
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.AssemblyInfo.cs
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.csproj.CoreCompileInputs.cache
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cache
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.RazorAssemblyInfo.cs
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.KoiManagement.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.KoiManagement.WebApplication.props
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KoiManagement.WebApplication.props
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KoiManagement.WebApplication.props
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\staticwebassets.pack.json
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\scopedcss\bundle\KoiManagement.WebApplication.styles.css
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\scopedcss\projectbundle\KoiManagement.WebApplication.bundle.scp.css
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManag.5320072A.Up2Date
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\refint\KoiManagement.WebApplication.dll
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.pdb
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\KoiManagement.WebApplication.genruntimeconfig.cache
+D:\download\C-Group-CNPM-CN2303CLCB-master\C-Group-CNPM-CN2303CLCB-master\KoiManagement\obj\Debug\net8.0\ref\KoiManagement.WebApplication.dll

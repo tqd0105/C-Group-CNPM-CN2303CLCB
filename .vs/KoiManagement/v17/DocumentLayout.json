@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|d:\\download\\c-group-cnpm-cn2303clcb-master\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 385,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\History.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\History.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\History.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\History.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwv58AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T17:13:35.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Program.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\Program.cs",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Program.cs",
+              "RelativeToolTip": "KoiManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:54:33.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Contact.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Contact.cshtml",
+              "ViewState": "AgIAAJIAAAAAAAAAAAApwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T17:20:30.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schedule.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Schedule.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Schedule.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Schedule.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Schedule.cshtml",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAIwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T17:19:01.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T02:28:28.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T16:51:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Booking.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Booking.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Booking.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Booking.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T16:29:05.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Service.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Service.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Service.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Service.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T15:58:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\download\\C-Group-CNPM-CN2303CLCB-master\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Index.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T15:50:09.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

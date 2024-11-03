@@ -1,0 +1,159 @@
+﻿@page "/History"
+@model KoiManagement.WebApplication.Pages.BlogModel
+
+@{
+    ViewData["Title"] = "Service History";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+
+    // Sample data to simulate existing service history
+    var services = new[]
+    {
+        new { Id = 1, ServiceDate = DateTime.Now.AddDays(-3), ServiceType = "Dọn vệ sinh", PetName = "Chiwawa", OwnerName = "Nguyễn Văn A", DoctorName = "Dr. Dũng" },
+        new { Id = 2, ServiceDate = DateTime.Now.AddDays(-10), ServiceType = "Kiểm tra sức khỏe", PetName = "Cục mỡ", OwnerName = "Trần Thị B", DoctorName = "Dr. Lâm" },
+        new { Id = 3, ServiceDate = DateTime.Now.AddDays(-15), ServiceType = "Tư vấn dinh dưỡng", PetName = "Blackbi", OwnerName = "Lê Thiên C", DoctorName = "Dr. Khang" }
+    };
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+        .star {
+            cursor: pointer;
+            font-size: 1.5em;
+            color: lightgray;
+        }
+
+            .star.selected {
+                color: #EE3715;
+            }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+        }
+
+        .btn-orange {
+            background-color: #EE3715;
+            color: white;
+            border: none;
+        }
+
+        .btn-feedback {
+            background-color: #EE3715;
+            color: white;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>@ViewData["Title"]</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Service Type</th>
+                    <th>Pet Name</th>
+                    <th>Owner Name</th>
+                    <th>Doctor Name</th>
+                    <th>Feedback</th>
+                    <th class="text-center">Rating</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var service in services)
+                {
+                    <tr>
+                        <td>@service.ServiceDate.ToString("dd/MM/yyyy")</td>
+                        <td>@service.ServiceType</td>
+                        <td>@service.PetName</td>
+                        <td>@service.OwnerName</td>
+                        <td>@service.DoctorName</td>
+                        <td>
+                            <button class="btn btn-feedback" onclick="openFeedbackModal(@service.Id)">Feedback</button>
+                        </td>
+                        <td class="text-center">
+                            <div id="rating-container-@service.Id">
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                    <span class="star" onclick="setRating(@service.Id, @i)">★</span>
+                                }
+                                <span id="rating-value-@service.Id">0</span>
+                                <button class="btn btn-orange" id="confirm-btn-@service.Id" onclick="confirmRating(@service.Id)">Confirm</button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Feedback Modal -->
+    <div id="feedbackModal" class="modal">
+        <div class="modal-content">
+            <span onclick="closeFeedbackModal()" style="float:right;cursor:pointer;">&times;</span>
+            <h2>Feedback</h2>
+            <textarea id="modal-feedback-text" class="form-control" rows="3" placeholder="Enter your feedback..."></textarea>
+            <button class="btn btn-orange" onclick="submitFeedback()">Submit</button>
+        </div>
+    </div>
+
+    <script>
+        let currentServiceId = null;
+        const feedbackData = {}; // Object to store feedback for each service
+
+        function openFeedbackModal(serviceId) {
+            currentServiceId = serviceId;
+            const feedback = feedbackData[serviceId] || ""; // Retrieve saved feedback if available
+            document.getElementById('modal-feedback-text').value = feedback; // Set textarea value
+            document.getElementById('feedbackModal').style.display = 'block';
+        }
+
+        function closeFeedbackModal() {
+            document.getElementById('feedbackModal').style.display = 'none';
+        }
+
+        function submitFeedback() {
+            const feedback = document.getElementById('modal-feedback-text').value;
+            const rating = document.getElementById('rating-value-' + currentServiceId).innerText;
+            console.log(`Feedback for ${currentServiceId}: ${feedback}, Rating: ${rating}`);
+            feedbackData[currentServiceId] = feedback; // Save feedback to the object
+            closeFeedbackModal();
+        }
+
+        function setRating(id, rating) {
+            document.getElementById('rating-value-' + id).innerText = rating;
+            const stars = document.querySelectorAll(`#rating-container-${id} .star`);
+            stars.forEach((star, index) => {
+                star.classList.toggle('selected', index < rating);
+            });
+        }
+
+        function confirmRating(id) {
+            const stars = document.querySelectorAll(`#rating-container-${id} .star`);
+            stars.forEach(star => {
+                star.onclick = null; // Disable clicking on stars after confirmation
+            });
+            document.getElementById('confirm-btn-' + id).style.display = 'none'; // Hide the confirm button
+        }
+    </script>
+</body>
+</html>
