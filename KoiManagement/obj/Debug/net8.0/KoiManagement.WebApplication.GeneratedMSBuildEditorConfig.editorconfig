@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiManagement.WebApplication
 build_property.RootNamespace = KoiManagement.WebApplication
-build_property.ProjectDir = C:\Users\hieul\Downloads\2t\KoiManagement\
+build_property.ProjectDir = C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-git\KoiManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hieul\Downloads\2t\KoiManagement
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Máy tính\C-Group-CNPM-git\KoiManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Booking.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Booking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Contact.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Error.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/History.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Privacy.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Schedule.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Schedule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Service.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/_ViewImports.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/_ViewStart.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Shared/_Layout.cshtml]
+[C:/Users/ASUS/OneDrive/Máy tính/C-Group-CNPM-git/KoiManagement/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5b43861fn9

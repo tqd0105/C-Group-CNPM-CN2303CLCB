@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C-Group-CNPM-git\\KoiManagement.Services\\KoiManagement.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C-Group-CNPM-git\\KoiManagement.Services\\KoiManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C-Group-CNPM-git\\KoiManagement.Services\\KoiManagement.Services.csproj",
         "projectName": "KoiManagement.Services",
-        "projectPath": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj",
-        "packagesPath": "C:\\Users\\hieul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C-Group-CNPM-git\\KoiManagement.Services\\KoiManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\C-Group-CNPM-git\\KoiManagement.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hieul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
