@@ -1,29 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\",
+  "WorkspaceRootPath": "C:\\Users\\hieul\\Downloads\\2t\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\khuon\\downloads\\c-group-cnpm-cn2303clcb\\koimanagement\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\khuon\\downloads\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\khuon\\downloads\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\khuon\\downloads\\c-group-cnpm-cn2303clcb\\koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\khuon\\downloads\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\hieul\\downloads\\2t\\koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\khuon\\downloads\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\hieul\\downloads\\2t\\koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\hieul\\downloads\\2t\\koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\hieul\\downloads\\2t\\koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\hieul\\downloads\\2t\\koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,15 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 385,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -89,41 +141,33 @@
               "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "petService.cs",
-              "DocumentMoniker": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Services\\petService.cs",
-              "RelativeDocumentMoniker": "KoiManagement\\Services\\petService.cs",
-              "ToolTip": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Services\\petService.cs",
-              "RelativeToolTip": "KoiManagement\\Services\\petService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T12:21:01.979Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "History.cshtml",
-              "DocumentMoniker": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\History.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\History.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\History.cshtml",
-              "ToolTip": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\History.cshtml",
+              "ToolTip": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\History.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\History.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T17:13:35.113Z"
+              "WhenOpened": "2024-11-01T17:13:35.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Program.cs",
               "RelativeDocumentMoniker": "KoiManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Program.cs",
               "RelativeToolTip": "KoiManagement\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\Contact.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\Contact.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -145,22 +189,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Service.cshtml",
-              "DocumentMoniker": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Service.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\Service.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Service.cshtml",
-              "ToolTip": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Service.cshtml",
+              "ToolTip": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\Service.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\Service.cshtml",
               "ViewState": "AQIAAIYAAAAAAAAAAAAmwKsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T15:58:31.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T15:58:31.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement\\Pages\\Index.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

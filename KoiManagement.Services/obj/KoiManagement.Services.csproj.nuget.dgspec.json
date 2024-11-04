@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Services\\KoiManagement.Services.csproj": {}
+    "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Services\\KoiManagement.Services.csproj": {
+    "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Services\\KoiManagement.Services.csproj",
+        "projectUniqueName": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj",
         "projectName": "KoiManagement.Services",
-        "projectPath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Services\\KoiManagement.Services.csproj",
-        "packagesPath": "C:\\Users\\khuon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Services\\obj\\",
+        "projectPath": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\KoiManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\hieul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hieul\\Downloads\\2t\\KoiManagement.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\khuon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hieul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

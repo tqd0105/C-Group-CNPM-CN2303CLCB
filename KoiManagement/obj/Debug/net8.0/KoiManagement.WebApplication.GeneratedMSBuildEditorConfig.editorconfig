@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiManagement.WebApplication
 build_property.RootNamespace = KoiManagement.WebApplication
-build_property.ProjectDir = C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement\
+build_property.ProjectDir = C:\Users\hieul\Downloads\2t\KoiManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB\KoiManagement
+build_property.MSBuildProjectDirectory = C:\Users\hieul\Downloads\2t\KoiManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Booking.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Booking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Contact.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Error.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/History.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Index.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Privacy.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Schedule.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Schedule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Service.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/_ViewImports.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/_ViewStart.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Shared/_Layout.cshtml]
+[C:/Users/hieul/Downloads/2t/KoiManagement/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5b43861fn9
