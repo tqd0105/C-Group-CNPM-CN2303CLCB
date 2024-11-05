@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ﻿<Project>
   <Import Project="..\build\KoiManagement.WebApplication.props" />
+=======
+﻿<Project>
+  <Import Project="..\build\KoiManagement.WebApplication.props" />
+>>>>>>> be57584 (update service)
 </Project>
