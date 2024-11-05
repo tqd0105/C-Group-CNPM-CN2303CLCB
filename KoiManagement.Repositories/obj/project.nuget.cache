@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-{
-  "version": 2,
-  "dgSpecHash": "+KeLSJBjMy8=",
-  "success": true,
-  "projectFilePath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-=======
 {
   "version": 2,
   "dgSpecHash": "9M+kn5bOXJTeTeka3VwC/zTUxetxehOAErXOHl2JgmQXpZ82cLKX7bMf6BPoe0k9AKBh2LX1PNHlbyU5JCCMtQ==",
@@ -14,5 +5,4 @@
   "projectFilePath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
   "expectedPackageFiles": [],
   "logs": []
->>>>>>> be57584 (update service)
 }
