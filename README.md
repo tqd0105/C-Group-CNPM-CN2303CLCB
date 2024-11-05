@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Source Code Project 6 - C Group
 ### QUẢN LÍ DỊCH VỤ THÚ Y CÁ KOI
 #### Thành viên nhóm
@@ -14,3 +15,6 @@
 ###### Thời gian đến hạn: `07:00 18/11/2024`
 ![image](https://github.com/user-attachments/assets/dc08dc49-1a8e-4ab9-9591-5d8425d229e8)
 
+=======
+# C-Group-CNPM-CN2303CLCB
+>>>>>>> 35d7986 (Initial commit)

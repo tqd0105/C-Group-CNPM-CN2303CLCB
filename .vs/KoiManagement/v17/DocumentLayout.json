@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\",
+  "WorkspaceRootPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c-group-cnpm-git\\koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-511\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c-group-cnpm-git\\koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-511\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c-group-cnpm-git\\koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-511\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c-group-cnpm-git\\koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-511\\c-group-cnpm-cn2303clcb\\koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\c-group-cnpm-git\\koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-511\\c-group-cnpm-cn2303clcb\\koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -144,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "History.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\History.cshtml",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\History.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\History.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\History.cshtml",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\History.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\History.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAADwvxsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -157,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Program.cs",
               "RelativeDocumentMoniker": "KoiManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Program.cs",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Program.cs",
               "RelativeToolTip": "KoiManagement\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Contact.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Contact.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -181,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Service.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\Service.cshtml",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Service.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Service.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\Service.cshtml",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Service.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\Service.cshtml",
               "ViewState": "AQIAAIYAAAAAAAAAAAAmwKsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -193,9 +193,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\C-Group-CNPM-git\\KoiManagement\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\Pages\\Index.cshtml",
               "RelativeToolTip": "KoiManagement\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
