@@ -1,0 +1,104 @@
+/* CSS chung cho cả trang đăng nhập và đăng ký */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f2f5;
+}
+
+/* Container cho trang đăng ký nhỏ hơn */
+.signup-container {
+    width: 400px;
+    max-width: 600px; /* Giảm độ rộng tối đa */
+    background-color: #fff;
+    padding: 20px 15px; /* Giảm padding */
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Giảm bóng đổ */
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px; /* Giảm khoảng cách giữa chữ và logo */
+    margin-bottom: 15px; /* Giảm khoảng cách dưới tiêu đề */
+    color: #333;
+    font-size: 22px; /* Giảm kích thước font tiêu đề */
+    font-weight: bold;
+}
+
+.logo {
+    width: 35px; /* Giảm kích thước logo */
+    height: 35px;
+    border-radius: 50%;
+}
+
+.input-group {
+    margin-bottom: 12px; /* Giảm khoảng cách giữa các nhóm nhập liệu */
+    text-align: left;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 4px; /* Giảm khoảng cách dưới label */
+    font-weight: bold;
+    color: #555;
+    font-size: 14px; /* Giảm kích thước font của label */
+}
+
+.input-group input {
+    width: 100%;
+    padding: 8px; /* Giảm padding trong trường nhập liệu */
+    border: 1.5px solid #ccc; /* Giảm độ dày của đường viền */
+    border-radius: 20px; /* Giảm bán kính bo tròn */
+    font-size: 14px; /* Giảm kích thước font của input */
+    transition: border-color 0.3s ease;
+}
+
+.input-group input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.signup-btn {
+    width: 100%;
+    padding: 10px; /* Giảm padding của nút */
+    background-color: #007bff;
+    border: none;
+    border-radius: 20px; /* Giảm bán kính bo tròn */
+    color: #fff;
+    font-size: 15px; /* Giảm kích thước font của nút */
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 8px; /* Giảm khoảng cách trên của nút */
+}
+
+.signup-btn:hover {
+    background-color: #0056b3;
+}
+
+.login-text {
+    margin-top: 12px; /* Giảm khoảng cách trên của văn bản */
+    color: #555;
+    font-size: 13px; /* Giảm kích thước font của văn bản */
+}
+
+.login-text a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.login-text a:hover {
+    text-decoration: underline;
+}

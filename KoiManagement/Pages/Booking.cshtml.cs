@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace KoiManagement.WebApplication.Pages
 {
-    public class AboutModel : PageModel
+    public class BookingModel : PageModel
     {
         public void OnGet()
         {

@@ -1,0 +1,49 @@
+﻿.header-area .main-header-area {
+    position: relative;
+}
+
+/* Định dạng cho profile icon và tên */
+.profile-menu {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    background-color: #ff9800;
+}
+
+.profile-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.username {
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+}
+
+/* Đặt biểu tượng người dùng ở góc phải và điều chỉnh kích thước */
+.profile-menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.profile-icon {
+    width: 30px; /* Chỉnh kích thước biểu tượng */
+    height: 30px;
+    border-radius: 50%; /* Làm tròn biểu tượng */
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Thêm hiệu ứng khi hover */
+}
+
+    .profile-icon:hover {
+        transform: scale(1.1); /* Tăng kích thước khi hover */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Thêm hiệu ứng bóng đổ */
+    }
+
+.profile-menu:hover .username {
+    text-decoration: underline;
+}

@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/effect.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 <body>
@@ -54,6 +55,7 @@
                                 <a href="#">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
+
                             </div>
                         </div>
                     </div>
@@ -73,23 +75,31 @@
                         <div class="col-xl-9 col-lg-9">
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
-                                    <ul id="navigation">
-                                        <li><a href="/Index">home></li>
-                                        <li><a href="/Booking">about</a></li>
+                                    <ul id="navigation" style="white-space: nowrap;">
+                                        <li><a href="/Index">home</a></li>
+                                        <li><a href="/Booking">Booking</a></li>
                                         <li>
                                             <a href="/History">History </a>
                                         </li>
-                                        <li><a href="/Schedule">Schedule</a></li>
+                                        @* <li><a href="/Schedule">Schedule</a></li> *@
                                         <li><a href="/Service">Services</a></li>
-                                        <li><a href="/Contact">Contact</a></li>
+                                        <li><a href="/Contact">Contact & Feedback</a></li>
+                                        <li><a href="/Dashboard">Dashboard</a></li>
+                                        <li><a style="font-weight: 600; color: blue; text-decoration: underline;" href="/Login">
+                                                <img style="width: 30px; height: 30px;" src="~/img/adapt_icon/logogoogle.png" />
+                                            </a></li>
+                                          
+
                                     </ul>
                                 </nav>
                             </div>
                         </div>
+
                         <div class="col-12">
                             <div class="mobile_menu d-block d-lg-none"></div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
@@ -174,7 +184,11 @@
                                             <i class="fa fa-linkedin"></i>
                                         </a>
                                     </li>
+                                     </li>
+      
+
                                 </ul>
+
                             </div>
 
                         </div>
@@ -188,11 +202,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
-                        <p>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">CGroup</a>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        </p>
                         </p>
                     </div>
                 </div>
@@ -248,6 +258,5 @@
             format: 'HH.MM'
         });
     </script>
-    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
