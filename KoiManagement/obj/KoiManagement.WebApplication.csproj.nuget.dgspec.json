@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj": {}
+    "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj": {
+    "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj",
         "projectName": "KoiManagement.WebApplication",
-        "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\obj\\",
+        "projectPath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj",
+        "packagesPath": "C:\\Users\\khuon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\khuon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +49,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -84,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

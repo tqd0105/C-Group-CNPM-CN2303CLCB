@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj": {}
+    "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj": {
+    "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
         "projectName": "KoiManagement.Repositories",
-        "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-511\\C-Group-CNPM-CN2303CLCB\\KoiManagement.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
+        "packagesPath": "C:\\Users\\khuon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khuon\\Downloads\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\khuon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

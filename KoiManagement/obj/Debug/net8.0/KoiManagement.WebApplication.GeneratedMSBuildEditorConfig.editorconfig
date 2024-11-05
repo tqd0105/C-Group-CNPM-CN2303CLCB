@@ -17,71 +17,75 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiManagement.WebApplication
 build_property.RootNamespace = KoiManagement.WebApplication
-build_property.ProjectDir = C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-511\C-Group-CNPM-CN2303CLCB\KoiManagement\
+build_property.ProjectDir = C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB-master\KoiManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-511\C-Group-CNPM-CN2303CLCB\KoiManagement
+build_property.MSBuildProjectDirectory = C:\Users\khuon\Downloads\C-Group-CNPM-CN2303CLCB-master\KoiManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Booking.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Booking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Contact.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Dashboard.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Error.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/History.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Index.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Login.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Privacy.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Service.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Schedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Thanks.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Thanks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhhbmtzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/_ViewImports.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/_ViewStart.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Views/Login/Index.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-511/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Shared/_Layout.cshtml]
+[C:/Users/khuon/Downloads/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5b43861fn9
