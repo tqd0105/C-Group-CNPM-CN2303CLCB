@@ -7,7 +7,7 @@
 | Lý Trọng Hiếu        | Nhóm phó      |
 | Nguyễn Dương Trung Hiếu | Thành viên  |
 | Nguyễn Hồng Lâm      | Thành viên    |
-| Nguyễn Minh Khang    | Thành viên    |
+| Huỳnh Minh Khang    | Thành viên    |
 | Nguyễn Văn Hân       | Thành viên    |
 ###### Thời gian thực hiện: `07:00 05/10/2024`
 ###### Thời gian đến hạn: `07:00 01/11/2024`
