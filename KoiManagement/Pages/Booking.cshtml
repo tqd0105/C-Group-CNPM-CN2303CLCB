@@ -182,7 +182,49 @@
             </div>
         </div>
     </section>
-    <!-- ================ contact section end ================= -->
+
+    <!-- ================ Schedule section start ================= -->
+    <section class="schedule-section">
+        <div class="container">
+            <h2 class="section-title text-center">Doctor's Schedule</h2>
+            <div class="row">
+                <div class="col-lg-6">
+                    <!-- Doctor's working hours form -->
+                    <h4>Set Doctor's Working Hours</h4>
+                    <form action="/update-schedule" method="post">
+                        <div class="form-group">
+                            <label for="doctor-name">Doctor's Name</label>
+                            <input class="form-control" id="doctor-name" name="doctor-name" type="text" placeholder="Enter Doctor's Name">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="work-day">Work Day</label>
+                            <input class="form-control" id="datepicker" name="work-day" type="text" placeholder="Select Day">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="work-time">Work Time</label>
+                            <input class="form-control" id="timepicker" name="work-time" type="text" placeholder="Select Time">
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Save Schedule</button>
+                    </form>
+                </div>
+
+                <div class="col-lg-6" style="float:left">
+                    <!-- Center's schedule -->
+                    <h4>Center's Schedule</h4>
+                    <ul>
+                        <li><strong>Monday - Friday:</strong> 9:00 AM - 6:00 PM</li>
+                        <li><strong>Saturday:</strong> 9:00 AM - 2:00 PM</li>
+                        <li><strong>Sunday:</strong> Closed</li>
+                    </ul>
+                    <p>For more details or to book an appointment, please contact us.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================ Schedule section end ================= -->
     <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
