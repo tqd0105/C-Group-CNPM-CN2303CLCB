@@ -17,159 +17,159 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiManagement.WebApplication
 build_property.RootNamespace = KoiManagement.WebApplication
-build_property.ProjectDir = C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement\
+build_property.ProjectDir = C:\Users\ASUS\OneDrive\Hình ảnh\C-Group-CNPM-CN2303CLCB\KoiManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Hình ảnh\C-Group-CNPM-CN2303CLCB\KoiManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Appoint/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Appoint/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Appoint/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Appoint/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Appoint/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Appoint/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Appoint/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Appoint/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Appoint/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Appoint/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Booking.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Booking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Contact.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Dashboard.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/DeleteLogin.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/DeleteLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Deletes.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Deletes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Detail.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/DoctorSchedule.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/DoctorSchedule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yU2NoZWR1bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/DoctorScheduleEdit.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/DoctorScheduleEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yU2NoZWR1bGVFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/EditLogin.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/EditLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Edits.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Edits.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Error.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/functional management.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/functional management.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZnVuY3Rpb25hbCBtYW5hZ2VtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/History.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Infors.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Infors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5mb3JzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Login.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Login2.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Login2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Privacy.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Rating&feedback/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Rating&feedback/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nJmZlZWRiYWNrXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Rating&feedback/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Rating&feedback/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nJmZlZWRiYWNrXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Rating&feedback/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Rating&feedback/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nJmZlZWRiYWNrXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Rating&feedback/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Rating&feedback/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nJmZlZWRiYWNrXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Rating&feedback/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Rating&feedback/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF0aW5nJmZlZWRiYWNrXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Service.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/SignIn.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbkluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Thanks.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Thanks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhhbmtzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/TreatmentSchedule.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/TreatmentSchedule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlYXRtZW50U2NoZWR1bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/TreatmentScheduleEdit.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/TreatmentScheduleEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlYXRtZW50U2NoZWR1bGVFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/_ViewImports.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/_ViewStart.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Applications/Zalo Storage/C-Group-CNPM-CN2303CLCB-master-hn6/C-Group-CNPM-CN2303CLCB-master/KoiManagement/Pages/Shared/_Layout.cshtml]
+[C:/Users/ASUS/OneDrive/Hình ảnh/C-Group-CNPM-CN2303CLCB/KoiManagement/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5b43861fn9

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-master-hn6\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-master-hn6\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\doctorscheduleedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\doctorscheduleedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\rating\u0026feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-master-hn6\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|c:\\applications\\zalo storage\\c-group-cnpm-cn2303clcb-master-hn6\\c-group-cnpm-cn2303clcb-master\\koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD4CB20D-144B-4ED5-8ABA-6BCE03B818B2}|KoiManagement\\KoiManagement.WebApplication.csproj|solutionrelative:koimanagement\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -86,21 +86,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 385,
-          "SelectedChildIndex": 40,
+          "SelectedChildIndex": 38,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TreatmentScheduleEdit.cshtml",
-              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
-              "RelativeDocumentMoniker": "KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
-              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
-              "RelativeToolTip": "KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAowKIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T15:44:32.898Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
@@ -244,19 +231,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TreatmentSchedule.cshtml.cs",
-              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
-              "RelativeDocumentMoniker": "KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
-              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
-              "RelativeToolTip": "KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:33:15.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TreatmentScheduleEdit.cshtml.cs",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml.cs",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml.cs",
@@ -264,12 +238,11 @@
               "RelativeToolTip": "KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:33:07.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:33:07.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DoctorSchedule.cshtml.cs",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\DoctorSchedule.cshtml.cs",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\DoctorSchedule.cshtml.cs",
@@ -277,12 +250,65 @@
               "RelativeToolTip": "KoiManagement\\Pages\\DoctorSchedule.cshtml.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAEwEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:31:01.883Z",
+              "WhenOpened": "2024-11-19T03:31:01.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorScheduleEdit.cshtml.cs",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
+              "RelativeToolTip": "KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:32:43.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Booking.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Booking.cshtml",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Booking.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\Booking.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAM0AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T04:07:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreatmentSchedule.cshtml.cs",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
+              "RelativeToolTip": "KoiManagement\\Pages\\TreatmentSchedule.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:33:15.13Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreatmentScheduleEdit.cshtml",
+              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
+              "RelativeDocumentMoniker": "KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
+              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
+              "RelativeToolTip": "KoiManagement\\Pages\\TreatmentScheduleEdit.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T15:44:32.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DoctorSchedule.cshtml",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\DoctorSchedule.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\DoctorSchedule.cshtml",
@@ -290,25 +316,11 @@
               "RelativeToolTip": "KoiManagement\\Pages\\DoctorSchedule.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T03:31:09.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:31:09.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DoctorScheduleEdit.cshtml.cs",
-              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
-              "RelativeDocumentMoniker": "KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
-              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
-              "RelativeToolTip": "KoiManagement\\Pages\\DoctorScheduleEdit.cshtml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAEwEAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:32:43.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TreatmentSchedule.cshtml",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\TreatmentSchedule.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\TreatmentSchedule.cshtml",
@@ -316,12 +328,11 @@
               "RelativeToolTip": "KoiManagement\\Pages\\TreatmentSchedule.cshtml",
               "ViewState": "AgIAAOUAAAAAAAAAAAAowB0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T15:44:16.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T15:44:16.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\appsettings.json",
               "RelativeDocumentMoniker": "KoiManagement\\appsettings.json",
@@ -329,12 +340,11 @@
               "RelativeToolTip": "KoiManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T04:42:54.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T04:42:54.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TreatmentSchedule.cs",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Models\\TreatmentSchedule.cs",
               "RelativeDocumentMoniker": "KoiManagement\\Models\\TreatmentSchedule.cs",
@@ -345,12 +355,8 @@
               "WhenOpened": "2024-11-19T03:40:45.133Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "KoiManagementWebApplicationContext.cs",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Data\\KoiManagementWebApplicationContext.cs",
               "RelativeDocumentMoniker": "KoiManagement\\Data\\KoiManagementWebApplicationContext.cs",
@@ -362,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Appoint\\Create.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Appoint\\Create.cshtml",
@@ -374,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Rating\u0026feedback\\Create.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Rating\u0026feedback\\Create.cshtml",
@@ -386,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Rating\u0026feedback\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiManagement\\Pages\\Rating\u0026feedback\\Index.cshtml",
@@ -455,18 +461,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T04:12:17.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Booking.cshtml",
-              "DocumentMoniker": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Booking.cshtml",
-              "RelativeDocumentMoniker": "KoiManagement\\Pages\\Booking.cshtml",
-              "ToolTip": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\Pages\\Booking.cshtml",
-              "RelativeToolTip": "KoiManagement\\Pages\\Booking.cshtml",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAMQAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T04:07:14.873Z"
             }
           ]
         }
