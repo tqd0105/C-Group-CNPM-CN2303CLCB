@@ -10,6 +10,6 @@
 | Huỳnh Minh Khang    | Thành viên    |
 | Nguyễn Văn Hân       | Thành viên    |
 ###### Thời gian thực hiện: `07:00 05/10/2024`
-###### Thời gian đến hạn: `07:00 01/11/2024`
+###### Thời gian đến hạn: `07:00 19/11/2024`
 ![image](https://github.com/user-attachments/assets/dc08dc49-1a8e-4ab9-9591-5d8425d229e8)
 
