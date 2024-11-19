@@ -1,0 +1,265 @@
+﻿@page "/DoctorSchedule"
+@model KoiManagement.WebApplication.Pages.DoctorScheduleModel
+@{
+    ViewData["Title"] = "Doctor Schedule Management";
+}
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <title>@ViewData["Title"]</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Link stylesheets -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+
+        .schedule-section {
+            padding: 2rem;
+            border-radius: 10px;
+        }
+
+        .schedule-title {
+            font-size: 2.5rem;
+            color: orangered;
+            margin-bottom: 0.5rem;
+        }
+
+        .schedule-description {
+            color: #555;
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+
+        .form-group input,
+        .form-group select {
+            border: 1px solid orangered;
+            border-radius: 5px;
+        }
+
+        .button-saveSchedule {
+            background-color: #fff;
+            color: #ff5722;
+            padding: 0.75rem 2rem;
+            border-radius: 30px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            border: 2px solid #ff5722;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+            .button-saveSchedule:hover {
+                background-color: #ff5722;
+                color: #fff;
+            }
+
+        .doctor-schedule-table {
+            margin-top: 2rem;
+        }
+
+        .btn-warning {
+            background-color: orangered;
+            color: white;
+        }
+
+            .btn-warning:hover {
+                background-color: white;
+                color: orangered;
+                border: 2px solid #ff5722;
+            }
+
+        .btn-danger {
+            background-color: orangered;
+            color: white;
+        }
+
+            .btn-danger:hover {
+                background-color: white;
+                color: orangered;
+                border: 2px solid #ff5722;
+            }
+
+        .form-group input,
+        .form-group select {
+            border: 1px solid orangered;
+            border-radius: 5px;
+            width: 100%; /* Đảm bảo tất cả các ô có chiều rộng bằng nhau */
+        }
+
+        /* Đảm bảo #datepicker cũng có độ rộng 100% */
+        #datepicker {
+            display: inline-block;
+            width: 100%; /* Chiếm toàn bộ chiều rộng của ô */
+            padding: 0.375rem 0.75rem;
+            border-radius: 5px;
+            border: 1px solid orangered;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="bradcam_area breadcam_bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bradcam_text text-center">
+                        <h3>@ViewData["Title"]</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="schedule-section mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="schedule-title">Manage Doctor Schedule</h2>
+                    <p class="schedule-description">Set working days and shifts for each doctor</p>
+                </div>
+                <div class="col-lg-8 form-center">
+                    <!-- Form for Adding Doctor Schedule -->
+                    <form method="post" class="mt-4">
+                        <div class="row">
+                            <!-- Doctor Name -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="DoctorSchedule.DoctorName">Doctor Name</label>
+                                    <select asp-for="DoctorSchedule.DoctorName" class="form-control">
+                                        <option value="">Select Doctor</option>
+                                        <option>Dr. Dung</option>
+                                        <option>Dr. Lam</option>
+                                        <option>Dr. Han</option>
+                                        <option>Dr. Hieu</option>
+                                        <option>Dr. Khang</option>
+                                    </select>
+                                    <span asp-validation-for="DoctorSchedule.DoctorName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Working Day -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="DoctorSchedule.WorkingDay" class="form-label"></label>
+                                    <input asp-for="DoctorSchedule.WorkingDay" class="form-control" placeholder="Enter Ưorking Date" />
+                                    <span asp-validation-for="DoctorSchedule.WorkingDay" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Shift -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="DoctorSchedule.Shift">Shift</label>
+                                    <select asp-for="DoctorSchedule.Shift" class="form-control">
+                                        <option value="Morning">Morning (7:00 AM - 11:30 AM)</option>
+                                        <option value="Afternoon">Afternoon (1:30 PM - 8:30 PM)</option>
+                                        <option value="Off">Off (Non-working)</option>
+                                    </select>
+                                    <span asp-validation-for="DoctorSchedule.Shift" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Replacement Doctor -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="DoctorSchedule.ReplacementDoctor" class="form-label">Replacement Doctor</label>
+                                    <input asp-for="DoctorSchedule.ReplacementDoctor" class="form-control" placeholder="Enter replacement doctor if any" />
+                                    <span asp-validation-for="DoctorSchedule.ReplacementDoctor" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="form-group text-center">
+                            <input type="submit" value="Save Schedule" class="button-saveSchedule" />
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+
+            <h3 class="text-center">Doctor's Work Schedule</h3>
+            <div class="doctor-schedule-table">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Doctor</th>
+                            <th>Working Day</th>
+                            <th>Shift</th>
+                            <th>Replacement Doctor</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var schedule in Model.Schedule)
+                        {
+                            <tr>
+                                <td>@schedule.DoctorName</td>
+                                <td>@schedule.WorkingDay</td>
+                                <td>@schedule.Shift</td>
+                                <td>@schedule.ReplacementDoctor</td>
+                                <td>
+                                    <a href="@Url.Page("/DoctorScheduleEdit", new { id = schedule.Id })" class="btn btn-warning btn-sm">Edit</a>
+                                    <form method="post" asp-page-handler="Delete" asp-route-id="@schedule.Id" style="display:inline;">
+                                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+    <!-- ================ contact section end ================= -->
+    <!-- JS here -->
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/ajax-form.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/scrollIt.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/nice-select.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/gijgo.min.js"></script>
+
+    <!--contact js-->
+    <script src="js/contact.js"></script>
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/mail-script.js"></script>
+
+    <script src="js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#datepicker').datepicker({
+                format: 'yyyy-mm-dd', // Định dạng ngày
+                autoclose: true,      // Tự động đóng sau khi chọn
+                todayHighlight: true, // Làm nổi bật ngày hiện tại
+                iconsLibrary: 'fontawesome',
+                icons: {
+                    rightIcon: '<span class="fa fa-calendar"></span>'
+                }
+            });
+        });
+    </script>
+
+</body>
+
+</html>
+

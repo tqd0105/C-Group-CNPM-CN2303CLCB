@@ -39,5 +39,17 @@ namespace KoiManagement.WebApplication.Controllers
 
             return Json(claims);
         }
+        public async Task<IActionResult> Logout()
+        {
+            // Xóa cookie xác thực
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+
+            // Xóa tất cả session
+            HttpContext.Session.Clear();
+
+            // Redirect về trang Login của ứng dụng
+            return RedirectToAction("Index", "Login");
+        }
+
     }
 }

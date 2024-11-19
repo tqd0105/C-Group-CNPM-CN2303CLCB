@@ -19,7 +19,7 @@ public class AccountController : Controller
     {
         var result = await HttpContext.AuthenticateAsync(GoogleDefaults.AuthenticationScheme);
 
-        if (!result.Succeeded)
+        if (!result.Succeeded) // Kiểm tra xác thực thành công
             return RedirectToAction("Login", "Login");
 
         var claimsIdentity = result.Principal.Identity as ClaimsIdentity;

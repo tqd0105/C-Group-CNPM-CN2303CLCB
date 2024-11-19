@@ -1,0 +1,100 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.Appoint.CreateModel
+
+@{
+    ViewData["Title"] = "Create New Appointment";
+}
+
+<h1 class="text-center">Create New Appointment</h1>
+
+<h4 class="text-center">Appointment Details</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Appointment ID -->
+            <div class="form-group">
+                <label asp-for="Appointment.AppointmentId" class="control-label">Appointment ID</label>
+                <input asp-for="Appointment.AppointmentId" class="form-control" placeholder="A***" />
+                <span asp-validation-for="Appointment.AppointmentId" class="text-danger"></span>
+            </div>
+
+            <!-- Customer ID -->
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Appointment.CustomerId" class="control-label">Customer ID</label>
+                <input asp-for="Appointment.CustomerId" class="form-control" placeholder="C***" />
+                <span asp-validation-for="Appointment.CustomerId" class="text-danger"></span>
+            </div>
+
+            <!-- Vet ID -->
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Appointment.VetId" class="control-label">Vet ID</label>
+                <input asp-for="Appointment.VetId" class="form-control" placeholder="V***" />
+                <span asp-validation-for="Appointment.VetId" class="text-danger"></span>
+            </div>
+
+            <!-- Appointment Date -->
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Appointment.AppointmentDate" class="control-label">Appointment Date</label>
+                <input asp-for="Appointment.AppointmentDate" class="form-control" placeholder="mm/dd/year" />
+                <span asp-validation-for="Appointment.AppointmentDate" class="text-danger"></span>
+            </div>
+
+            <!-- Status -->
+            <div class="form-group">
+                <label asp-for="Appointment.Status" class="control-label">Status</label>
+                <select asp-for="Appointment.Status" class="form-control">
+                    <option value="Pending">Pending</option>
+                    <option value="Confirmed">Confirmed</option>
+                    <option value="Cancelled">Cancelled</option>
+                </select>
+                <span asp-validation-for="Appointment.Status" class="text-danger"></span>
+            </div>
+
+            <!-- Submit Button -->
+            <div class="form-group text-center">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .text-center {
+        text-align: center;
+    }
+
+    .row {
+        display: flex;
+        justify-content: center;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .form-control {
+        border-radius: 0.25rem;
+    }
+
+    .btn {
+        margin: 0 0.5rem;
+    }
+
+    hr {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+</style>

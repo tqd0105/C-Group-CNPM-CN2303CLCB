@@ -1,0 +1,46 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.Rating_feedback.EditModel
+
+@{
+    ViewData["Title"] = "Edit Rating";
+}
+
+<h1>Edit Rating</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Rating.RatingId" />
+
+            <div class="form-group">
+                <label asp-for="Rating.VetId"></label>
+                <input asp-for="Rating.VetId" class="form-control" />
+                <span asp-validation-for="Rating.VetId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Rating.UserId"></label>
+                <input asp-for="Rating.UserId" class="form-control" />
+                <span asp-validation-for="Rating.UserId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Rating.RatingValue"></label>
+                <input asp-for="Rating.RatingValue" class="form-control" />
+                <span asp-validation-for="Rating.RatingValue" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Rating.Feedback"></label>
+                <input asp-for="Rating.Feedback" class="form-control" />
+                <span asp-validation-for="Rating.Feedback" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

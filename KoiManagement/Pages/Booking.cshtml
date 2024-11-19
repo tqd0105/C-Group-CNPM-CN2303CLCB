@@ -1,5 +1,5 @@
 ﻿@page "/Booking"
-@model KoiManagement.WebApplication.Pages.BookingModel
+@model KoiManagement.WebApplication.Pages.Booking
 @{
 }
 
@@ -103,56 +103,78 @@
                     <p class="booking-description">Ensure the health and vitality of your koi fish with a professional examination</p>
                 </div>
                 <div class="col-lg-8">
-                    <form class="form-booking booking_form" action="booking_process.php" method="post" id="bookingForm" novalidate="novalidate">
+                    <form class="form-booking booking_form"  method="post" >
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input class="form-control valid" name="owner_name" id="owner_name" type="text" placeholder="Full Name">
+                                        <label asp-for="BookingSchedule.name" class="form-label"></label>
+                                    <input asp-for="BookingSchedule.name" class="form-control" placeholder="Enter your name" />
+                                    <span asp-validation-for="BookingSchedule.name" class="text-danger"></span>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input class="form-control valid" name="contact_number" id="contact_number" type="text" placeholder="Contact Number">
+                                    <label asp-for="BookingSchedule.phone" class="form-label"></label>
+                                    <input asp-for="BookingSchedule.phone" class="form-control" placeholder="Enter your phone number" />
+                                    <span asp-validation-for="BookingSchedule.phone" class="text-danger"></span>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-group">
-                                    <input class="form-control valid" name="email" id="email" type="email" placeholder="Email Address">
+                                    <label asp-for="BookingSchedule.email" class="form-label"></label>
+                                    <input asp-for="BookingSchedule.email" class="form-control" placeholder="Enter your email" />
+                                    <span asp-validation-for="BookingSchedule.email" class="text-danger"></span>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input class="form-control" name="koi_name" id="koi_name" type="text" placeholder="Koi Fish Name">
+                                    <label asp-for="BookingSchedule.koi_name" class="form-label"></label>
+                                    <input asp-for="BookingSchedule.koi_name" class="form-control" placeholder="Enter your Koi's Name" />
+                                    <span asp-validation-for="BookingSchedule.koi_name" class="text-danger"></span>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input class="form-control" name="appointment_date" id="appointment_date" type="date" placeholder="Appointment Date">
+                                    <label asp-for="BookingSchedule.Booking_Date" class="form-label"></label>
+                                    <input asp-for="BookingSchedule.Booking_Date" class="form-control" placeholder="Enter Booking Date" />
+                                    <span asp-validation-for="BookingSchedule.Booking_Date" class="text-danger"></span>
                                 </div>
                             </div>
-                            <div class="col-12">
+
+                            <div class="col-sm-12">
                                 <div class="form-group">
-                                    <select class="form-control" name="doctor" id="doctor">
-                                        <option value="" disabled selected>Select a Doctor</option>
-                                        <option value="doctor1">Dr. Lam</option>
-                                        <option value="doctor2">Dr. Dung</option>
-                                        <option value="doctor3">Dr. Hieu</option>
+                                    <label asp-for="BookingSchedule.vets_name" class="form-label"></label>
+                                    <select asp-for="BookingSchedule.vets_name" class="form-control">
+                                        <option value="">Select a Vet</option>
+                                        <option value="Dr. Dung">Dr. Dung</option>
+                                        <option value="Dr. Lam">Dr. Lam</option>
+                                        <option value="Dr. Han">Dr. Han</option>
+                                        <option value="Dr. Hieu">Dr. Hieu</option>
+                                        <option value="Dr. Khang">Dr. Khang</option>
                                     </select>
+                                    <span asp-validation-for="BookingSchedule.vets_name" class="text-danger"></span>
                                 </div>
                             </div>
-                            <div class="col-12">
+
+                            <div class="col-sm-12">
                                 <div class="form-group">
-                                    <textarea class="form-control w-100" name="symptoms" id="symptoms" cols="30" rows="5" placeholder="Describe any symptoms or concerns"></textarea>
+                                    <label asp-for="BookingSchedule.address" class="form-label"></label>
+                                    <input asp-for="BookingSchedule.address" class="form-control" placeholder="Enter your address"/>
+                                    <span asp-validation-for="BookingSchedule.address" class="text-danger"></span>
                                 </div>
                             </div>
-                            <div class="col-12">
+
+                            <div class="col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control" name="address" id="address" type="text" placeholder="Home visit address (if needed)">
+                                    <label asp-for="BookingSchedule.description" class="form-label"></label>
+                                    <textarea asp-for="BookingSchedule.description" class="form-control" placeholder="Enter your description about problem of Koi" ></textarea>
+                                    <span asp-validation-for="BookingSchedule.description" class="text-danger"></span>
                                 </div>
                             </div>
+                           
                         </div>
                         <div class="form-group mt-3 text-center">
-                            <a href="/Thanks" type="submit" class="button button-bookingForm boxed-btn">Book Appointment</a>
+                            <input type="submit" value="Booking Consultation" class="button button-bookingForm boxed-btn"/>
                         </div>
                     </form>
                 </div>
@@ -178,53 +200,12 @@
                             <p>We're here to help!</p>
                         </div>
                     </div>
+                    <a href="Appoint/Index" style="white-space: nowrap; border: 1px solid orange;" class="boxed-btn4">Booking Appointment</a>
                 </div>
             </div>
         </div>
     </section>
-
-    <!-- ================ Schedule section start ================= -->
-    <section class="schedule-section">
-        <div class="container">
-            <h2 class="section-title text-center">Doctor's Schedule</h2>
-            <div class="row">
-                <div class="col-lg-6">
-                    <!-- Doctor's working hours form -->
-                    <h4>Set Doctor's Working Hours</h4>
-                    <form action="/update-schedule" method="post">
-                        <div class="form-group">
-                            <label for="doctor-name">Doctor's Name</label>
-                            <input class="form-control" id="doctor-name" name="doctor-name" type="text" placeholder="Enter Doctor's Name">
-                        </div>
-
-                        <div class="form-group">
-                            <label for="work-day">Work Day</label>
-                            <input class="form-control" id="datepicker" name="work-day" type="text" placeholder="Select Day">
-                        </div>
-
-                        <div class="form-group">
-                            <label for="work-time">Work Time</label>
-                            <input class="form-control" id="timepicker" name="work-time" type="text" placeholder="Select Time">
-                        </div>
-
-                        <button type="submit" class="btn btn-primary">Save Schedule</button>
-                    </form>
-                </div>
-
-                <div class="col-lg-6" style="float:left">
-                    <!-- Center's schedule -->
-                    <h4>Center's Schedule</h4>
-                    <ul>
-                        <li><strong>Monday - Friday:</strong> 9:00 AM - 6:00 PM</li>
-                        <li><strong>Saturday:</strong> 9:00 AM - 2:00 PM</li>
-                        <li><strong>Sunday:</strong> Closed</li>
-                    </ul>
-                    <p>For more details or to book an appointment, please contact us.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ================ Schedule section end ================= -->
+    <!-- ================ contact section end ================= -->
     <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="js/vendor/jquery-1.12.4.min.js"></script>

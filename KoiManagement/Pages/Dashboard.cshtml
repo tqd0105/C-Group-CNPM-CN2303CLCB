@@ -1,6 +1,180 @@
 ﻿@page "/Dashboard"
 @model KoiManagement.WebApplication.Pages.DashboardModel
-@{
-}
 
-<h2>Dashboard</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Báo cáo quản lý lịch và doanh thu</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="app"></div> <!-- Placeholder for the charts -->
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Create container
+            const container = document.createElement("div");
+            container.className = "container";
+            document.getElementById("app").appendChild(container);
+
+            // Title
+            const title = document.createElement("h1");
+            title.className = "text-center my-4";
+            title.textContent = "Schedule and revenue management reports";
+            container.appendChild(title);
+
+            // Row 1: Appointments and Cancel Rate
+            const row1 = document.createElement("div");
+            row1.className = "row mb-4";
+            container.appendChild(row1);
+
+            // Appointment Bar Chart
+            const appointmentCol = document.createElement("div");
+            appointmentCol.className = "col-md-6";
+            const appointmentBar = document.createElement("div");
+            appointmentBar.id = "appointment-bar";
+            appointmentCol.appendChild(appointmentBar);
+            row1.appendChild(appointmentCol);
+
+            Plotly.newPlot("appointment-bar", [{
+                x: ["July", "August", "September", "October"],
+                y: [150, 200, 170, 190],
+                type: "bar",
+                name: "Number of appointments",
+                marker: { color: "rgb(0, 102, 204)", opacity: 0.8 }
+            }], {
+                title: "Number of appointments over time",
+                xaxis: { title: "Time" },
+                yaxis: { title: "Number of appointments" }
+            }, { displayModeBar: true });
+
+            // Cancel Rate Donut Chart
+            const cancelRateCol = document.createElement("div");
+            cancelRateCol.className = "col-md-6";
+            const cancelRateDonut = document.createElement("div");
+            cancelRateDonut.id = "cancel-rate-donut";
+            cancelRateCol.appendChild(cancelRateDonut);
+            row1.appendChild(cancelRateCol);
+
+            Plotly.newPlot("cancel-rate-donut", [{
+                labels: ["July", "August", "September", "October"],
+                values: [5, 10, 7, 9],
+                type: "pie",
+                hole: 0.4,
+                name: "Cancellation rate",
+                marker: {
+                    colors: ["rgb(255, 69, 0)", "rgb(255, 165, 0)", "rgb(34, 139, 34)", "rgb(70, 130, 180)"]
+                }
+            }], {
+                title: "Appointment cancellation rate"
+            }, { displayModeBar: true });
+
+            // Row 2: Doctor Performance
+            const row2 = document.createElement("div");
+            row2.className = "row mb-4";
+            container.appendChild(row2);
+
+            const doctorPerformanceCol = document.createElement("div");
+            doctorPerformanceCol.className = "col-12";
+            const doctorPerformance = document.createElement("div");
+            doctorPerformance.id = "doctor-performance";
+            doctorPerformanceCol.appendChild(doctorPerformance);
+            row2.appendChild(doctorPerformanceCol);
+
+            Plotly.newPlot("doctor-performance", [
+                {
+                    x: ["Dr.Dung", "Dr.LHieu", "Dr.T.Hieu", "Dr.HLam", "Dr.MKhang", "Dr.TLam", "Dr.Han"],
+                    y: [50, 75, 60, 55, 58, 62, 66],
+                    type: "bar",
+                    name: "Number of appointments",
+                    marker: { color: "rgb(0, 153, 76)", opacity: 0.8 }
+                },
+                {
+                    x: ["Dr.Dung", "Dr.LHieu", "Dr.T.Hieu", "Dr.HLam", "Dr.MKhang", "Dr.TLam", "Dr.Han"],
+                    y: [95, 90, 92, 94, 91, 93, 94],
+                    type: "scatter",
+                    mode: "lines+markers",
+                    name: "Completion rate",
+                    line: { color: "rgb(255, 127, 14)", width: 3 }
+                }
+            ], {
+                title: "The performance of the doctor.",
+                xaxis: { title: "Doctor" },
+                yaxis: { title: "Number of appointments/Completion rate (%)" },
+                barmode: "group"
+            }, { displayModeBar: true });
+
+            // Row 3: Revenue Charts
+            const row3 = document.createElement("div");
+            row3.className = "row mb-4";
+            container.appendChild(row3);
+
+            const revenuePieCol = document.createElement("div");
+            revenuePieCol.className = "col-md-6";
+            const revenuePie = document.createElement("div");
+            revenuePie.id = "revenue-pie";
+            revenuePieCol.appendChild(revenuePie);
+            row3.appendChild(revenuePieCol);
+
+            Plotly.newPlot("revenue-pie", [{
+                labels: ["Online Consultation", "Home Visit", "Prescription"],
+                values: [30000, 15000, 20000],
+                type: "pie",
+                name: "Revenue by service",
+                marker: {
+                    colors: ["rgb(0, 204, 255)", "rgb(51, 204, 51)", "rgb(255, 165, 0)"]
+                }
+            }], {
+                title: "Revenue by service"
+            }, { displayModeBar: true });
+
+            const weeklyRevenueLineCol = document.createElement("div");
+            weeklyRevenueLineCol.className = "col-md-6";
+            const weeklyRevenueLine = document.createElement("div");
+            weeklyRevenueLine.id = "weekly-revenue-line";
+            weeklyRevenueLineCol.appendChild(weeklyRevenueLine);
+            row3.appendChild(weeklyRevenueLineCol);
+
+            Plotly.newPlot("weekly-revenue-line", [{
+                x: ["July", "August", "September", "October"],
+                y: [10000, 12000, 15000, 17000],
+                type: "scatter",
+                mode: "lines+markers",
+                name: "Monthly revenue",
+                line: { color: "rgb(75, 0, 130)" }
+            }], {
+                title: "Revenue over time",
+                xaxis: { title: "time" },
+                yaxis: { title: "Revenue" }
+            }, { displayModeBar: true });
+
+            // Row 4: Customer Ratings
+            const row4 = document.createElement("div");
+            row4.className = "row mb-4";
+            container.appendChild(row4);
+
+            const customerRatingsBarCol = document.createElement("div");
+            customerRatingsBarCol.className = "col-12";
+            const customerRatingsBar = document.createElement("div");
+            customerRatingsBar.id = "customer-ratings-bar";
+            customerRatingsBarCol.appendChild(customerRatingsBar);
+            row4.appendChild(customerRatingsBarCol);
+
+            Plotly.newPlot("customer-ratings-bar", [{
+                x: [1, 2, 3, 4, 5],
+                y: [5, 3, 10, 20, 40],
+                type: "bar",
+                name: "Customer reviews",
+                marker: { color: "rgb(255, 223, 0)", opacity: 0.8 }
+            }], {
+                title: "Customer reviews",
+                xaxis: { title: "Star number" },
+                yaxis: { title: "Number of reviews" }
+            }, { displayModeBar: true });
+        });
+    </script>
+</body>
+</html>

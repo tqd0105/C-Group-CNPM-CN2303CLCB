@@ -1,0 +1,169 @@
+﻿@page "/DoctorScheduleEdit"
+@model KoiManagement.WebApplication.Pages.DoctorScheduleEditModel
+@{
+    ViewData["Title"] = "Edit Doctor Schedule";
+}
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <title>@ViewData["Title"]</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Link stylesheets -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+
+    <style>
+        .edit-section {
+            padding: 2rem;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin-top: 2rem;
+        }
+
+        .edit-title {
+            font-size: 2.5rem;
+            color: orangered;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .form-group label {
+            color: #333;
+        }
+
+        .form-group input,
+        .form-group select {
+            border: 1px solid orangered;
+            border-radius: 5px;
+        }
+
+        .button-save {
+            background-color: #fff;
+            color: orangered;
+            padding: 0.75rem 2rem;
+            border-radius: 30px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            border: 2px solid orangered;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            display: block;
+            margin: 0 auto;
+        }
+
+            .button-save:hover {
+                background-color: orangered;
+                color: #fff;
+            }
+
+            #datepicker {
+            display: inline-block;
+            width: 100%; /* Chiếm toàn bộ chiều rộng của ô */
+            padding: 0.375rem 0.75rem;
+            border-radius: 5px;
+            border: 1px solid orangered;
+            }
+
+    </style>
+</head>
+<body>
+
+    <div class="bradcam_area breadcam_bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bradcam_text text-center">
+                        <h3>@ViewData["Title"]</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="edit-section mt-5">
+        <div class="container">
+            <h1 class="edit-title">Edit Doctor Schedule</h1>
+            <form method="post">
+                <input type="hidden" asp-for="DoctorSchedule.Id" />
+
+                <div class="row">
+                    <!-- Doctor Name -->
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label asp-for="DoctorSchedule.DoctorName">Doctor Name</label>
+                            <select asp-for="DoctorSchedule.DoctorName" class="form-control">
+                                <option value="">Select Doctor</option>
+                                <option>Dr. Dung</option>
+                                <option>Dr. Lam</option>
+                                <option>Dr. Han</option>
+                                <option>Dr. Hieu</option>
+                                <option>Dr. Khang</option>
+                            </select>
+                            <span asp-validation-for="DoctorSchedule.DoctorName" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Working Day -->
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label asp-for="DoctorSchedule.WorkingDay" class="form-label"></label>
+                            <input asp-for="DoctorSchedule.WorkingDay" class="form-control" placeholder="Enter Booking Date" />
+                            <span asp-validation-for="DoctorSchedule.WorkingDay" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Shift -->
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label asp-for="DoctorSchedule.Shift">Shift</label>
+                            <select asp-for="DoctorSchedule.Shift" class="form-control">
+                                <option value="Morning">Morning (7:00 AM - 11:30 AM)</option>
+                                <option value="Afternoon">Afternoon (1:30 PM - 8:30 PM)</option>
+                                <option value="Off">Off (Non-working)</option>
+                            </select>
+                            <span asp-validation-for="DoctorSchedule.Shift" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Replacement Doctor -->
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label asp-for="DoctorSchedule.ReplacementDoctor">Replacement Doctor</label>
+                            <input asp-for="DoctorSchedule.ReplacementDoctor" class="form-control" placeholder="Enter replacement doctor if any" />
+                            <span asp-validation-for="DoctorSchedule.ReplacementDoctor" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group text-center">
+                    <button type="submit" class="button-save">Save Schedule</button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- JS here -->
+    <script src="~/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="~/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#datepicker').datepicker({
+                format: 'yyyy-mm-dd', // Định dạng ngày
+                autoclose: true,      // Tự động đóng sau khi chọn
+                todayHighlight: true, // Làm nổi bật ngày hiện tại
+                iconsLibrary: 'fontawesome',
+                icons: {
+                    rightIcon: '<span class="fa fa-calendar"></span>'
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>

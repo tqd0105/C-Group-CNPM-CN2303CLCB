@@ -1,0 +1,65 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.EditModels
+
+@{
+    ViewData["Title"] = "Edit Account";
+}
+
+<h1 class="text-center my-4">Edit Account</h1>
+<h4 class="text-center text-muted">Manage Your Login Details</h4>
+<hr />
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form method="post" class="bg-light p-4 rounded shadow-sm">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <input type="hidden" asp-for="LoginAccount.Id" />
+
+                <div class="form-group">
+                    <label asp-for="LoginAccount.name" class="control-label"></label>
+                    <input asp-for="LoginAccount.name" class="form-control" placeholder="Enter your full name" required />
+                    <span asp-validation-for="LoginAccount.name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="LoginAccount.username" class="control-label"></label>
+                    <input asp-for="LoginAccount.username" class="form-control" placeholder="Choose a username" required />
+                    <span asp-validation-for="LoginAccount.username" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="LoginAccount.password" class="control-label"></label>
+                    <input asp-for="LoginAccount.password" class="form-control" placeholder="Enter your password" type="password" required />
+                    <span asp-validation-for="LoginAccount.password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="LoginAccount.address" class="control-label"></label>
+                    <input asp-for="LoginAccount.address" class="form-control" placeholder="Enter your address" required />
+                    <span asp-validation-for="LoginAccount.address" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="LoginAccount.birthday" class="control-label"></label>
+                    <input asp-for="LoginAccount.birthday" class="form-control" type="date" required />
+                    <span asp-validation-for="LoginAccount.birthday" class="text-danger"></span>
+                </div>
+                <div class="form-group text-center">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <a asp-page="./Detail" asp-route-username="@Model.LoginAccount.username" class="btn btn-success">View</a>
+                </div>
+                <div class="text-center mt-4">
+                    <a asp-page="./Index" class="btn btn-outline-primary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

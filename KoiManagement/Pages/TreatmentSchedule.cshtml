@@ -1,0 +1,285 @@
+﻿@page "/TreatmentSchedule"
+@model KoiManagement.WebApplication.Pages.TreatmentScheduleModel
+@{
+    ViewData["Title"] = "Treatment Schedule Management";
+}
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <title>@ViewData["Title"]</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Link stylesheets -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        .schedule-section {
+            padding: 2rem;
+            border-radius: 10px;
+        }
+
+        .schedule-title {
+            font-size: 2.5rem;
+            color: orangered;
+            margin-bottom: 0.5rem;
+        }
+
+        .schedule-description {
+            color: #555;
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+
+        .form-group input,
+        .form-group select {
+            border: 1px solid orangered;
+            border-radius: 5px;
+        }
+
+        .button-saveSchedule {
+            background-color: #fff;
+            color: #ff5722;
+            padding: 0.75rem 2rem;
+            border-radius: 30px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            border: 2px solid #ff5722;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+            .button-saveSchedule:hover {
+                background-color: #ff5722;
+                color: #fff;
+            }
+
+        .doctor-schedule-table {
+            margin-top: 2rem;
+        }
+
+        .btn-warning {
+            background-color: orangered;
+            color: white;
+        }
+
+            .btn-warning:hover {
+                background-color: white;
+                color: orangered;
+                border: 2px solid #ff5722;
+            }
+
+        .btn-danger {
+            background-color: orangered;
+            color: white;
+        }
+
+            .btn-danger:hover {
+                background-color: white;
+                color: orangered;
+                border: 2px solid #ff5722;
+            }
+
+        .form-group input,
+        .form-group select {
+            border: 1px solid orangered;
+            border-radius: 5px;
+            width: 100%;
+        }
+
+        #datepicker {
+            display: inline-block;
+            width: 100%;
+            padding: 0.375rem 0.75rem;
+            border-radius: 5px;
+            border: 1px solid orangered;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="bradcam_area breadcam_bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bradcam_text text-center">
+                        <h3>@ViewData["Title"]</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="schedule-section mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="schedule-title">Manage Treatment Schedule</h2>
+                    <p class="schedule-description">Set up customer and Koi treatment schedules.</p>
+                </div>
+                <div class="col-lg-8 form-center">
+                    <!-- Form for Adding Treatment Schedule -->
+                    <form method="post" class="mt-4">
+                        <div class="row">
+                            <!-- Customer Name -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="TreatmentSchedule.CustomerName">Customer Name</label>
+                                    <input asp-for="TreatmentSchedule.CustomerName" class="form-control" placeholder="Enter Customer Name" />
+                                    <span asp-validation-for="TreatmentSchedule.CustomerName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Phone -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="TreatmentSchedule.Phone">Phone</label>
+                                    <input asp-for="TreatmentSchedule.Phone" class="form-control" placeholder="Enter Customer Phone" />
+                                    <span asp-validation-for="TreatmentSchedule.Phone" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Email -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="TreatmentSchedule.Email">Email</label>
+                                    <input asp-for="TreatmentSchedule.Email" class="form-control" placeholder="Enter Customer Email" />
+                                    <span asp-validation-for="TreatmentSchedule.Email" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Koi's Name -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="TreatmentSchedule.KoiName">Koi's Name</label>
+                                    <input asp-for="TreatmentSchedule.KoiName" class="form-control" placeholder="Enter Koi's Name" />
+                                    <span asp-validation-for="TreatmentSchedule.KoiName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Booking Date -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="TreatmentSchedule.BookingDate">Booking Date</label>
+                                    <input asp-for="TreatmentSchedule.BookingDate" class="form-control" placeholder="Enter Booking Date" />
+                                    <span asp-validation-for="TreatmentSchedule.BookingDate" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Appointment Date -->
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label asp-for="TreatmentSchedule.AppointmentDate">Appointment Date</label>
+                                    <input asp-for="TreatmentSchedule.AppointmentDate" class="form-control" placeholder="Enter Appointment Date" />
+                                    <span asp-validation-for="TreatmentSchedule.AppointmentDate" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <!-- Veterinarian Name -->
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label asp-for="TreatmentSchedule.VeterinarianName">Doctor Name</label>
+                                <select asp-for="TreatmentSchedule.VeterinarianName" class="form-control">
+                                    <option value="">Select Doctor</option>
+                                    <option>Dr. Dung</option>
+                                    <option>Dr. Lam</option>
+                                    <option>Dr. Han</option>
+                                    <option>Dr. Hieu</option>
+                                    <option>Dr. Khang</option>
+                                </select>
+                                <span asp-validation-for="TreatmentSchedule.VeterinarianName" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <!-- Disease Symptoms -->
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label asp-for="TreatmentSchedule.DiseaseSymptoms">Disease Symptoms</label>
+                                <input asp-for="TreatmentSchedule.DiseaseSymptoms" class="form-control" placeholder="Enter Disease Symptoms" />
+                                <span asp-validation-for="TreatmentSchedule.DiseaseSymptoms" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <!-- Treatment Description -->
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label asp-for="TreatmentSchedule.Description">Treatment Description</label>
+                                <input asp-for="TreatmentSchedule.Description" class="form-control" placeholder="Enter Treatment Description" />
+                                <span asp-validation-for="TreatmentSchedule.Description" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <!-- Prescription -->
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label asp-for="TreatmentSchedule.Prescription">Prescription</label>
+                                <input asp-for="TreatmentSchedule.Prescription" class="form-control" placeholder="Enter Prescription" />
+                                <span asp-validation-for="TreatmentSchedule.Prescription" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <!-- Confirmed -->
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label asp-for="TreatmentSchedule.IsConfirmed">Confirm</label>
+                                <select asp-for="TreatmentSchedule.IsConfirmed" class="form-control">
+                                    <option value="true">Confirmed</option>
+                                    <option value="false">None</option>
+                                </select>
+                                <span asp-validation-for="TreatmentSchedule.IsConfirmed" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="col-md-3">
+                            <button type="submit" class="button-saveSchedule">Save Schedule</button>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- Treatment Schedule Table -->
+                <div class="col-12 table-center">
+                    <h3>Scheduled Treatments</h3>
+                    <table class="table doctor-schedule-table">
+                        <thead>
+                            <tr>
+                                <th>Customer Name</th>
+                                <th>Customer Phone</th>
+                                <th>Email</th>
+                                <th>Doctor's Name</th>
+                                <th>Koi's Name</th>
+                                <th>Treatment</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var schedule in Model.Schedule)
+                            {
+                                <tr>
+                                    <td>@schedule.CustomerName</td>
+                                    <td>@schedule.Phone</td>
+                                    <td>@schedule.Email</td>
+                                    <td>@schedule.VeterinarianName</td>
+                                    <td>@schedule.KoiName</td>
+                                    <td>@schedule.Description</td>
+                                    <td>
+                                        <a asp-page="./TreatmentScheduleEdit" asp-route-id="@schedule.Id" class="btn btn-warning">Edit</a>
+                                        <form method="post" asp-page-handler="Delete" asp-route-id="@schedule.Id" style="display:inline;">
+                                            <button type="submit" class="btn btn-danger">Delete</button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

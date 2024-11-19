@@ -1,0 +1,81 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.Appoint.IndexModel
+
+@{
+    ViewData["Title"] = "Appointments";
+}
+
+<h1 class="text-center">Appointments</h1>
+
+<p class="text-center">
+    <a asp-page="Create" class="btn btn-primary">Create New Appointment</a>
+</p>
+
+<div class="table-container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Appointments[0].CustomerId)</th>
+                <th>@Html.DisplayNameFor(model => model.Appointments[0].VetId)</th>
+                <th>@Html.DisplayNameFor(model => model.Appointments[0].AppointmentDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Appointments[0].Status)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Appointments != null && Model.Appointments.Count > 0)
+            {
+                foreach (var item in Model.Appointments)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.CustomerId)</td>
+                        <td>@Html.DisplayFor(modelItem => item.VetId)</td>
+                        <td>@item.AppointmentDate.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@item.AppointmentId" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-page="./Details" asp-route-id="@item.AppointmentId" class="btn btn-info btn-sm">Details</a>
+                            <a asp-page="./Delete" asp-route-id="@item.AppointmentId" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5" class="text-center">No appointments found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    .text-center {
+        text-align: center;
+    }
+
+    .table-container {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0 0.5rem;
+    }
+
+        .table th, .table td {
+            text-align: center;
+        }
+
+        .table thead th {
+            background-color: #f8f9fa;
+        }
+
+    .btn {
+        margin: 0 0.2rem;
+    }
+</style>

@@ -1,0 +1,89 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.DetailModel
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+<h1 class="text-center text-primary mb-4">Your Account</h1>
+
+<div class="container">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0 text-white">Details</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.LoginAccount.name)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.LoginAccount.name)
+                </dd>
+
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.LoginAccount.username)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.LoginAccount.username)
+                </dd>
+
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.LoginAccount.password)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.LoginAccount.password)
+                </dd>
+
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.LoginAccount.address)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.LoginAccount.address)
+                </dd>
+
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.LoginAccount.birthday)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.LoginAccount.birthday)
+                </dd>
+            </dl>
+        </div>
+        <div class="card-footer text-right">
+            @if (Model.LoginAccount != null)
+            {
+                <a asp-page="./EditLogin" asp-route-username="@Model.LoginAccount.username" class="btn btn-warning btn-sm" style="margin-right: 5px;">
+                    <i class="fa fa-edit"></i> Edit Account
+                </a>
+                <a asp-page="./DeleteLogin" asp-route-username="@Model.LoginAccount.username" class="btn btn-danger btn-sm" style="margin-right: 5px;">
+                    <i class="fa fa-trash"></i> Delete Account
+                </a>
+                <a asp-page="./SignIn"  class="btn btn-primary btn-sm" style="margin-right: 5px;">
+                    <i class="fa fa-user-plus"></i> Sign In
+                </a>
+            }
+            <a asp-page="./Index" class="btn btn-secondary btn-sm">
+                <i class="fa fa-arrow-left"></i> Back
+            </a>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .card {
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+    .card-header {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+</style>

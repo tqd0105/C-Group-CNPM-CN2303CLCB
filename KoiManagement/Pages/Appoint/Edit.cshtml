@@ -1,0 +1,66 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.Appoint.EditModel
+
+@{
+    ViewData["Title"] = "Edit Appointment";
+}
+
+<h1 class="text-center">Edit Appointment</h1>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h4 class="text-center">Appointment Details</h4>
+            <hr />
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <input type="hidden" asp-for="Appointment.AppointmentId" />
+
+                <!-- Customer ID -->
+                <div class="form-group">
+                    <label asp-for="Appointment.CustomerId" class="control-label">Customer ID</label>
+                    <input asp-for="Appointment.CustomerId" class="form-control" />
+                    <span asp-validation-for="Appointment.CustomerId" class="text-danger"></span>
+                </div>
+
+                <!-- Vet ID -->
+                <div class="form-group">
+                    <label asp-for="Appointment.VetId" class="control-label">Vet ID</label>
+                    <input asp-for="Appointment.VetId" class="form-control" />
+                    <span asp-validation-for="Appointment.VetId" class="text-danger"></span>
+                </div>
+
+                <!-- Appointment Date -->
+                <div class="form-group">
+                    <label asp-for="Appointment.AppointmentDate" class="control-label">Appointment Date</label>
+                    <input asp-for="Appointment.AppointmentDate" class="form-control" type="datetime-local" />
+                    <span asp-validation-for="Appointment.AppointmentDate" class="text-danger"></span>
+                </div>
+
+                <!-- Status -->
+                <div class="form-group">
+                    <label asp-for="Appointment.Status" class="control-label">Status</label>
+                    <select asp-for="Appointment.Status" class="form-control">
+                        <option value="Pending">Pending</option>
+                        <option value="Confirmed">Confirmed</option>
+                        <option value="Cancelled">Cancelled</option>
+                    </select>
+                    <span asp-validation-for="Appointment.Status" class="text-danger"></span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="form-group text-center">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

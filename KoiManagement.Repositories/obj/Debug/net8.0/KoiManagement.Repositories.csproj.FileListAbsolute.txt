@@ -1,0 +1,113 @@
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+E:\tai\Test\C-Group-CNPM-CN2303CLCB - Sao chép\KoiManagement.WebApplication\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+E:\tai\C-Group-CNPM-CN2303CLCB-complete\C-Group-CNPM-CN2303CLCB-login3\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.sourcelink.json
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Tài liệu\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master-hn3.1\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+E:\tai\nen\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.deps.json
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.runtimeconfig.json
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\bin\Debug\net8.0\KoiManagement.Repositories.pdb
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.AssemblyReference.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfoInputs.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.AssemblyInfo.cs
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\refint\KoiManagement.Repositories.dll
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.pdb
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\KoiManagement.Repositories.genruntimeconfig.cache
+C:\Applications\Zalo Storage\C-Group-CNPM-CN2303CLCB-master-hn6\C-Group-CNPM-CN2303CLCB-master\KoiManagement.Repositories\obj\Debug\net8.0\ref\KoiManagement.Repositories.dll

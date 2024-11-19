@@ -1,0 +1,59 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.Login2Model
+@{
+}
+
+
+<form method="post" class="container mt-5">
+    <div class="text-center mb-4">
+        <h2 class="h2">Create Account</h2>
+        <p class="lead">Please fill in the details to create your account.</p>
+    </div>
+
+    <!-- Name input -->
+    <div class="form-outline mb-4 w-50 mx-auto">
+        <label asp-for="LoginAccount.name" class="control-label"></label>
+        <input asp-for="LoginAccount.name" class="form-control" placeholder="Enter your name" />
+        <span asp-validation-for="LoginAccount.name" class="text-danger"></span>
+    </div>
+
+    <!-- Username input -->
+    <div class="form-outline mb-4 w-50 mx-auto">
+        <label asp-for="LoginAccount.username" class="control-label"></label>
+        <input asp-for="LoginAccount.username" class="form-control" placeholder="Choose a username" />
+        <span asp-validation-for="LoginAccount.username" class="text-danger"></span>
+    </div>
+
+    <!-- Password input -->
+    <div class="form-outline mb-4 w-50 mx-auto">
+        <label asp-for="LoginAccount.password" class="control-label"></label>
+        <input asp-for="LoginAccount.password" class="form-control" type="password" placeholder="Enter your password" />
+        <span asp-validation-for="LoginAccount.password" class="text-danger"></span>
+    </div>
+
+    <!-- Address input -->
+    <div class="form-outline mb-4 w-50 mx-auto">
+        <label asp-for="LoginAccount.address" class="control-label"></label>
+        <input asp-for="LoginAccount.address" class="form-control" placeholder="Enter your address" />
+        <span asp-validation-for="LoginAccount.address" class="text-danger"></span>
+    </div>
+
+    <!-- Birthday input -->
+    <div class="form-outline mb-4 w-50 mx-auto">
+        <label asp-for="LoginAccount.birthday" class="control-label"></label>
+        <input asp-for="LoginAccount.birthday" class="form-control" type="date" />
+        <span asp-validation-for="LoginAccount.birthday" class="text-danger"></span>
+    </div>
+
+    <div class="form-group text-center">
+        <input type="submit" value="Create Account" class="btn btn-success btn-lg" />
+        <div class="mt-3">
+            @if (Model.LoginAccount != null)
+            {
+                <a asp-page="./Detail" asp-route-username="@Model.LoginAccount.username" class="btn btn-info">View</a>
+                <a asp-page="./SignIn" class="btn btn-primary ">Sign In</a>
+            }
+            <a asp-page="./Login" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+</form>

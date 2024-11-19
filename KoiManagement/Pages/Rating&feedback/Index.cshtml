@@ -1,0 +1,44 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.Rating_feedback.IndexModel
+
+@{
+    ViewData["Title"] = "Ratings";
+}
+
+<h1>Ratings List</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Rating[0].VetId)</th>
+            <th>@Html.DisplayNameFor(model => model.Rating[0].UserId)</th>
+            <th>@Html.DisplayNameFor(model => model.Rating[0].RatingValue)</th>
+            <th>@Html.DisplayNameFor(model => model.Rating[0].Feedback)</th>
+            <th>@Html.DisplayNameFor(model => model.Rating[0].CreatedAt)</th>
+            <th>@Html.DisplayNameFor(model => model.Rating[0].UpdatedAt)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Rating)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.VetId)</td>
+                <td>@Html.DisplayFor(modelItem => item.UserId)</td>
+                <td>@Html.DisplayFor(modelItem => item.RatingValue)</td>
+                <td>@Html.DisplayFor(modelItem => item.Feedback)</td>
+                <td>@Html.DisplayFor(modelItem => item.CreatedAt)</td>
+                <td>@Html.DisplayFor(modelItem => item.UpdatedAt)</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.RatingId" class="btn btn-warning">Edit</a>
+                    <a asp-page="./Details" asp-route-id="@item.RatingId" class="btn btn-info">Details</a>
+                    <a asp-page="./Delete" asp-route-id="@item.RatingId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

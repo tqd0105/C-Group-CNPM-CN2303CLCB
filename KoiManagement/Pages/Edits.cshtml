@@ -1,0 +1,71 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.EditsModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+
+<div class="row d-flex justify-content-center align-center">
+    
+    <div class="col-md-4">
+        <h1 style="color:#2196F3">EDIT</h1>
+
+        <h4 style="color: orangered;">Booking Schedule for Koi Fish Treatment</h4>
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BookingSchedule.Id" />
+            <div class="form-group">
+                <label asp-for="BookingSchedule.name" class="control-label"></label>
+                <input asp-for="BookingSchedule.name" class="form-control" />
+                <span asp-validation-for="BookingSchedule.name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingSchedule.phone" class="control-label"></label>
+                <input asp-for="BookingSchedule.phone" class="form-control" />
+                <span asp-validation-for="BookingSchedule.phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingSchedule.email" class="control-label"></label>
+                <input asp-for="BookingSchedule.email" class="form-control" />
+                <span asp-validation-for="BookingSchedule.email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingSchedule.koi_name" class="control-label"></label>
+                <input asp-for="BookingSchedule.koi_name" class="form-control" />
+                <span asp-validation-for="BookingSchedule.koi_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingSchedule.Booking_Date" class="control-label"></label>
+                <input asp-for="BookingSchedule.Booking_Date" class="form-control" />
+                <span asp-validation-for="BookingSchedule.Booking_Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingSchedule.vets_name" class="control-label"></label>
+                <input asp-for="BookingSchedule.vets_name" class="form-control" />
+                <span asp-validation-for="BookingSchedule.vets_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingSchedule.description" class="control-label"></label>
+                <input asp-for="BookingSchedule.description" class="form-control" />
+                <span asp-validation-for="BookingSchedule.description" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex justify-content-between">
+                <input type="submit" value="Save" class="button button-bookingForm boxed-btn" />
+                <a asp-page="./History" style="display: flex; flex-wrap; justify-content: center; align-content:center; flex-wrap:wrap;" class="btn btn-info">Back to List</a>
+            </div>
+        </form>
+    </div>
+    
+</div>
+    
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

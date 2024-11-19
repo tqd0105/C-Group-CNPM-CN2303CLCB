@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\tai\\Test\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj": {}
+    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj": {}
   },
   "projects": {
-    "E:\\tai\\Test\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj": {
+    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\tai\\Test\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj",
-        "projectName": "KoiManagement.WebApplication",
-        "projectPath": "E:\\tai\\Test\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\KoiManagement.WebApplication.csproj",
-        "packagesPath": "C:\\Users\\HIEU\\.nuget\\packages\\",
-        "outputPath": "E:\\tai\\Test\\C-Group-CNPM-CN2303CLCB\\KoiManagement\\obj\\",
+        "projectUniqueName": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
+        "projectName": "KoiManagement.Repositories",
+        "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HIEU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,167 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Services\\KoiManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Services\\KoiManagement.Services.csproj",
+        "projectName": "KoiManagement.Services",
+        "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Services\\KoiManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj": {
+                "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj",
+        "projectName": "KoiManagement.WebApplication",
+        "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\KoiManagement.WebApplication.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj": {
+                "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Repositories\\KoiManagement.Repositories.csproj"
+              },
+              "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Services\\KoiManagement.Services.csproj": {
+                "projectPath": "C:\\Applications\\Zalo Storage\\C-Group-CNPM-CN2303CLCB-master-hn6\\C-Group-CNPM-CN2303CLCB-master\\KoiManagement.Services\\KoiManagement.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
             "Google.Apis.Auth": {
               "target": "Package",
               "version": "[1.68.0, )"
@@ -62,9 +223,17 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

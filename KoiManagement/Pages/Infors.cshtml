@@ -1,0 +1,61 @@
+﻿@page
+@model KoiManagement.WebApplication.Pages.InforsModel
+
+@{
+    ViewData["Title"] = "Infors";
+}
+
+
+
+<div style="margin-left:40%; margin-bottom: 50px;">
+    <h1 style="color: #599300;">INFOR REVIEW</h1>
+    <h4 style="color: green;">Booking Schedule for Koi Fish Treatment</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.BookingSchedule.name)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.BookingSchedule.name)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.BookingSchedule.phone)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.BookingSchedule.phone)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.BookingSchedule.email)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.BookingSchedule.email)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.BookingSchedule.koi_name)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.BookingSchedule.koi_name)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.BookingSchedule.Booking_Date)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.BookingSchedule.Booking_Date)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.BookingSchedule.vets_name)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.BookingSchedule.vets_name)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.BookingSchedule.description)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.BookingSchedule.description)
+        </dd>
+    </dl>
+    <a href="/Edits?id=@Model.BookingSchedule.Id" class="btn btn-primary">Edit</a>
+    <a asp-page="./History" class="btn btn-info">Back to List</a>
+</div>
+
